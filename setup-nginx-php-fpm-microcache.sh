@@ -61,6 +61,7 @@ rm -rf wordpress
 #Go through WordPress install with database and password you setup here
 #You may need to create wp-config.php
 
+#benchmark from loadimpact: http://loadimpact.com/load-test/69.55.49.190-eabaf77a2ff22ab93bb978a8ecf485cb
 
 
 
