@@ -14,7 +14,7 @@ In future versions I would like to focus on:
 
 > **Blitz.io testing results:**
 >"This rush generated 28,924 successful hits in 60 seconds and we transferred 218.86 MB of data in and out of your app. The average hit rate of 482/second translates to about 41,650,560 hits/day."
->![WordPress VPS Performance](https://raw.githubusercontent.com/kevinohashi/WordPressVPS/master/wordpressvps_performance.PNG)
+>![WordPress VPS Performance](http://kevinohashi.com/wordpressvps_performance.PNG)
 
 All testing was done on a $10/month Plan from [Digital Ocean][3] with 1GB Ram, 1 Core, 30GB SSD running Ubuntu 14.04x64.
 
