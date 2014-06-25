@@ -12,14 +12,14 @@ In future versions I would like to focus on:
 - Improving MySql/Database Performance
 - Other Caching Improvements (Plugins, Memcached, etc)
 
-> **Blitz.io testing results:**
+> **[Blitz.io][3] testing results:**
 >
 >"This rush generated 28,924 successful hits in 60 seconds and we transferred 218.86 MB of data in and out of your app. The average hit rate of 482/second translates to about 41,650,560 hits/day."
 >![WordPress VPS Performance](http://kevinohashi.com/wordpressvps_performance.PNG)
 >
 >Full results PDFs can be found in the loadtest_results folder. Performance was tested up to 3000 users per second.
 
-All testing was done on a $10/month Plan from [Digital Ocean][3] with 1GB Ram, 1 Core, 30GB SSD running Ubuntu 14.04x64.
+All testing was done on a $10/month Plan from [Digital Ocean][4] with 1GB Ram, 1 Core, 30GB SSD running Ubuntu 14.04x64.
 
 
 ----------
@@ -51,4 +51,5 @@ Finally, this doesn't fully install WordPress, you may need to create the wp-con
 
   [1]: http://reviewsignal.com/webhosting
   [2]: http://reviewsignal.com/webhosting/compare
-  [3]: http://clicks.reviewsignal.com/out.php?c=101&t=wordpressvps-readme
+  [3]: http://blitz.io/bhmeMI5LF0Pc8neVAZEL2wv
+  [4]: http://clicks.reviewsignal.com/out.php?c=101&t=wordpressvps-readme
